@@ -8,11 +8,12 @@
     ],
     "python.testing.pytestEnabled": false,
     "python.testing.nosetestsEnabled": false,
-    "python.testing.unittestEnabled": true,
+    "python.testing.unittestEnabled": false,
     "python.testing.pytestArgs": [
         "Runtime"
     ],
     "python.testing.nosetestArgs": [
         "Runtime"
-    ]
+    ],
+    "python.testing.promptToConfigure": false
 }
